@@ -30,6 +30,7 @@ Raspberry Pi OS Lite
  There are I2C and UART as methods of serial communication between Arduino and Raspberrypi. UART was adopted as an easy method.
 
 ## Physical wiring diagrams and schematics
+<img src="https://github.com/issei-617/NT-MA1-Arduino-Pi-MacAdapter/blob/main/image_1.png" width="50%">
 
 ## Code on the Raspberrypi side
 
