@@ -4,6 +4,9 @@ Enable both the mouse and ten-key functions of NT-MA1 (numeric keypad mouse, san
 ## Background
 　The NT-MA1 (numeric keypad mouse) is a usb-connected HID (Human Interface Device) that combines a numeric keypad and mouse in one device. Unfortunately, the NT-MA1's mouse function can be used on a Mac, but not the numeric keypad function. I wanted to make it possible to use both mouse and numeric keypad functions, which I was able to achieve by asking ChatGPT.
 
+<img src="https://github.com/issei-617/NT-MA1-Arduino-Pi-MacAdapter/blob/main/image_3.png" width="50%">
+
+
 ## Caution
 　This is not intended for practical use, but only as a trial.
 
