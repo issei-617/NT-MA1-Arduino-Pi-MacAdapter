@@ -31,6 +31,8 @@ Raspberry Pi OS Lite
 
 ## Physical wiring diagrams and schematics
 <img src="https://github.com/issei-617/NT-MA1-Arduino-Pi-MacAdapter/blob/main/image_1.png" width="50%">
+</br>
+<img src="https://github.com/issei-617/NT-MA1-Arduino-Pi-MacAdapter/blob/main/image_2.png" width="50%">
 
 ## Code on the Raspberrypi side
 
