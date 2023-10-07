@@ -54,9 +54,9 @@ Raspberry Pi OS Lite
 ## Usage
 
 (1) Wire as above.
-(2) Burn program() to Arduino Leonardo with Arduino IDE.
-(3) Execute the program() on the Raspberrypi. Then, it starts monitoring the input from NT-MA1. (It is easier to connect to the Raspberrypi via ssh from the PC.)
-(4) Open the serial monitor of Arduino IDE. As written in the code, the communication speed is 19200.
+(2) Burn program(keyboardEmulator.ino) to Arduino Leonardo with Arduino IDE.
+(3) Execute the program(getTenAndMouse.py) on the Raspberrypi. Then, it starts monitoring the input from NT-MA1. (It is easier to connect to the Raspberrypi via ssh from the PC.)
+(4) Open the serial monitor of Arduino IDE. As written in the code, the communication speed is 19200.（Caution!!Mouse movement is quite slow and impractical.）
 
 
 
