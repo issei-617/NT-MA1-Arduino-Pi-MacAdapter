@@ -123,8 +123,8 @@ uartを通じて送られてきたデータに基づき、キーをエミュレ�
 ## 使い方
 
 （1）上記のように配線する。
-（2）　、、、をArduinoIDEからマイコンボードに書き込んでおく。
-（3）Raspberrypiで、、、を実行する。するとNT-MA1からの入力の監視が始まる。（Raspberrypiへ母艦のPCからssh接続し、そこから、、、を実行すると楽である）。
+（2）keyboardEmulator.inoをArduinoIDEからマイコンボードに書き込んでおく。
+（3）RaspberrypiでgetTenAndMouse.pyを実行する。するとNT-MA1からの入力の監視が始まる。（Raspberrypiへ母艦のPCからssh接続し、そこからgetTenAndMouse.pyを実行すると楽である）。
 （4）ArduinoIDEのシリアルモニタを開く。コード上に書いてある通り、通信速度は19200。すると、シリアルモニタ上にuartから受信したデータを表示するとともに、Mac上に文字が入力されたり、マウスポインタが移動したりする。
 
 ### 注意
